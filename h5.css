@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 400px;
+}
+
+
+.item {
+
+  flex-grow: 1;
+
+  color: white;
+  background-color: #4a729a ;
+  padding: 10px 15px;
+  margin: 6px;
+  border-radius: 8px;
+  border: solid 2px #b1bcc6;
+
+  text-align: left;
+
+}

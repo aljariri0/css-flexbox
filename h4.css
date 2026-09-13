@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  gap: 0.001px;
+}
+
+.item-1,
+.item-2,
+.item-3 {
+  border-radius: 10px;
+  background-color: #4a729a;
+  border: 2px solid #77a6b6;
+  color: white;
+
+  width: 160px;
+  padding: 10px;
+}

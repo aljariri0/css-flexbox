@@ -1,0 +1,31 @@
+.container {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.item-2,
+.item-3,
+.item-4,
+.item-5 {
+  background-color: white;
+  width: 200px;
+}
+
+.item-2 {
+  align-self: flex-start;
+  margin-right: auto;
+}
+
+.red-circle {
+  width: 40px;
+  height: 40px;
+  background-color: red;
+  border-radius: 50%;
+}

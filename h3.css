@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #4a729a;
+  border-radius: 10px;
+
+  height: 250px;
+  width: 300px;
+}
+
+.item {
+
+  background-color: #4a729a ;
+  padding: 10px;
+  color: white;
+  text-align: left;
+
+  width: 100px;
+
+}
